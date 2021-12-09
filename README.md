@@ -28,7 +28,7 @@ Deploy your own version of this example site, by clicking the Deploy To Netlify 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/example-every-color&utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
 
 
-## Install and run this example for locally
+## Install and run this example locally
 
 You can clone this example repo to explore its features and implementation, and to run it locally.
 
