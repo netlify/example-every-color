@@ -1,0 +1,21 @@
+[build]
+    publish = "public"
+    command = "# No build command"
+
+[[redirects]]
+    from = "/hex/:color"
+    to = "/.netlify/functions/color"
+    status = 200
+    force = true
+
+[[redirects]]
+    from = "/rgb/:r/:g/:b"
+    to = "/.netlify/functions/color"
+    status = 200
+    force = true
+
+[[redirects]]
+    from = "/named/:color"
+    to = "/.netlify/functions/color"
+    status = 200
+    force = true

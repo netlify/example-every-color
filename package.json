@@ -1,0 +1,10 @@
+{
+    "name": "netlify-example-every-color",
+    "version": "1.0.0",
+    "description": "An example site which uses Netlify's on-demand builder functions to generate millions of color reference pages",
+    "author": "Netlify",
+    "license": "ISC",
+    "dependencies": {
+        "@netlify/functions": "^0.3.1"
+    }
+}
