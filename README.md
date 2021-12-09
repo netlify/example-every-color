@@ -4,11 +4,11 @@
 
 ## About this example site
 
-This site uses Netlify's on-demand builder functions to dynamically generate a page for any requested valid CSS color in hex, RGB, or named formats.
+This site uses [Netlify's On-Demand Builders](https://www.netlify.com/blog/2021/04/14/faster-builds-for-large-sites-on-netlify-with-on-demand-builders-now-in-early-access/) to dynamically generate a page for any requested valid CSS color in hex, RGB, or named formats.
 
-On-demand builder functions generate a page the first time it is requested and then adds it to the most recent deployment for immediate serving for each subsequent request.
+On-Demand Builders generate a page the first time it is requested and then adds it to the most recent deployment for immediate serving for each subsequent request.
 
-You can read more about On-demand builder functions in the docs. You can learn more about the architecture pattern they implement, in this blog post about Distribute Persistent Rendering (DPR)
+You can [read more about On-Demand Builders in the docs](https://docs.netlify.com/configure-builds/on-demand-builders/). You can learn more about the architecture pattern they implement, in this [blog post about Distribute Persistent Rendering (DPR)](https://www.netlify.com/blog/2021/04/14/distributed-persistent-rendering-a-new-jamstack-approach-for-faster-builds/)
 
 
 
@@ -17,7 +17,7 @@ You can read more about On-demand builder functions in the docs. You can learn m
 Deploy your own version of this example site, by clicking the Deploy To Netlify Button below. This will automatically:
 
 - Clone a copy of this repo to your own GitHub account
-- Create a new project in your Netlify account, linked to your new repo
+- Create a new project in your [Netlify account](https://app.netlify.com), linked to your new repo
 - Create an automated deployment pipeline to watch for changes on your repo
 - Build and deploy your new site
 
@@ -41,7 +41,7 @@ npm install
 npm install -g netlify-cli
 
 # 5. Serve your site using Netlify Dev
-neltify dev
+netlify dev
 
 ```
 
