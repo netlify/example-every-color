@@ -10,9 +10,9 @@
 
 ## About this example site
 
-This site uses [Netlify's On-Demand Builders](https://www.netlify.com/blog/2021/04/14/faster-builds-for-large-sites-on-netlify-with-on-demand-builders-now-in-early-access/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples) to dynamically generate a page for any requested valid CSS color in hex, RGB, or named formats.
+This site uses [Netlify's On-demand builders](https://www.netlify.com/blog/2021/04/14/faster-builds-for-large-sites-on-netlify-with-on-demand-builders-now-in-early-access/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples) to dynamically generate a page for any requested valid CSS color in hex, RGB, or named formats.
 
-On-Demand Builders generate a page the first time it is requested and then adds it to the most recent deployment for immediate serving for each subsequent request. This is an implementation of the Distributed Persistent Rendering (DPR) model.
+On-demand builders generate a page the first time it is requested and then adds it to the most recent deployment for immediate serving for each subsequent request. This is an implementation of the Distributed Persistent Rendering (DPR) model.
 
 - 📚 [Docs On-Demand Builders](https://docs.netlify.com/configure-builds/on-demand-builders/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
 - 🧑‍🏫 [About Distribute Persistent Rendering](https://www.netlify.com/blog/2021/04/14/distributed-persistent-rendering-a-new-jamstack-approach-for-faster-builds/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples)
@@ -21,7 +21,7 @@ On-Demand Builders generate a page the first time it is requested and then adds 
 
 ## Speedily deploy your own version
 
-Deploy your own version of this example site, by clicking the Deploy To Netlify Button below. This will automatically:
+Deploy your own version of this example site, by clicking the Deploy to Netlify Button below. This will automatically:
 
 - Clone a copy of this repo to your own GitHub account
 - Create a new project in your [Netlify account](https://app.netlify.com/?utm_medium=social&utm_source=github&utm_campaign=devex-ph&utm_content=devex-examples), linked to your new repo
